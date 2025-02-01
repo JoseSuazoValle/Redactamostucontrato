@@ -7,7 +7,8 @@
     
 
 # appMeson
-  Es la aplicación que recibe los contratos rellenados en el tótem y permite:
+  Es la aplicación que recibe los contratos rellenados en el tótem y permite:  
+  
     1.- Gestionar la veracidad de la información.  
     
     2.- Editar el contrato.  
